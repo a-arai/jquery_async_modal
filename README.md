@@ -1,5 +1,8 @@
 ## Issue
 
+ロジックのソースが記載されているファイル
+https://github.com/a-arai/jquery_async_modal/blob/master/src/js/index.js
+
 1.画面が読み込まれた時にデータを取得して本のリスト一覧を作成します。
 （データを取得しリストのDOMを作成）
 
